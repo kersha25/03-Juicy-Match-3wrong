@@ -3,7 +3,6 @@
 Project for MSCH-C220, 9 October 2021
 
 Making a simple match-3 game juicy.
-Adds features like a soundtrack, sound effect, changing colors, particles when selected, elements falling off screen when matched, 
 
 ## To play
 
@@ -13,6 +12,7 @@ Select and drag tiles using the mouse.
 ## Implementation
 
 Built using Godot 3.3.3
+Adds features like a soundtrack, sound effect, changing colors, particles when selected, elements falling off screen when matched, animation when dying, squeeze and stretch in falling, and animating the elements when selected.
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
