@@ -12,7 +12,7 @@ Select and drag tiles using the mouse.
 ## Implementation
 
 Built using Godot 3.3.3
-Adds features like a soundtrack, sound effect, changing colors, particles when selected, elements falling off screen when matched, animation when dying, squeeze and stretch in falling, and animating the elements when selected.
+Adds features like a soundtrack, a sound effect when piece is moved, changing colors in the background, particles when selected, elements falling off screen when matched, animation when dying, squeeze and stretch in falling, and changing colors when selected.
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
